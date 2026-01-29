@@ -1,0 +1,9 @@
+bounce.svg.import
+GPUTrail3D.gd.uid
+plugin.gd.uid
+gizmos/gizmo.gd.uid
+shaders/custom_example_alpha_erosion.gdshader.uid
+shaders/custom_example_blank.gdshader.uid
+shaders/gputrail_lib.gdshaderinc.uid
+shaders/trail_draw_pass.gdshader.uid
+shaders/trail.gdshader.uid
